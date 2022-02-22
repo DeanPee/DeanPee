@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🌟 I'm an Engineering Graduate
 - 🌱 I’m currently learning to be a Front End Developer
-- 👯 I doing things in exciting new ways
-- 🤔 I’m looking for help with HTML, CSS, JS and React
-- 💬 Ask me about ...
+- 👯 I love doing things in exciting new ways
+- 🤔 I’m looking for help with HTML, CSS, JS and React as I am new to programming
+- 💬 Ask me about Jesus Christ
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love playing volleyball whenever I get an opportunity
 -->
